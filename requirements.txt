@@ -1,0 +1,3 @@
+Flask==1.1.2
+nudenet==2.0.6
+tensorflow==2.0.0
